@@ -1,0 +1,22 @@
+[
+  {
+    "id": "otomasyon",
+    "kelimeler": ["otomasyon", "OTOMASYON"],
+    "yorum_cevabi": "@{u} DM'den attım 👊",
+    "ilk_dm": "Selam! Yorum → DM otomasyonunun kodunu ve kurulum rehberini göndereyim mi?",
+    "tus": "Gönder",
+    "icerik": "Buyur 👇 Çalışan kodun tamamı + Meta kurulumu adım adım + ban yememek için kurallar burada. Takıldığın yerde bana yaz.",
+    "link": "https://github.com/kara-developer/instagram-yorum-dm",
+    "link_baslik": "Paketi aç"
+  },
+  {
+    "id": "hafiza",
+    "kelimeler": ["hafiza", "hafıza", "HAFIZA"],
+    "yorum_cevabi": "@{u} DM'den attım 👊",
+    "ilk_dm": "Selam! Yapay zekalar için ortak hafıza paketini göndereyim mi?",
+    "tus": "Gönder",
+    "icerik": "Buyur 👇 Klasör şablonu, CLAUDE.md/AGENTS.md talimatları ve otomatik kayıt hook'ları burada.",
+    "link": "https://github.com/kara-developer/ai-ortak-hafiza",
+    "link_baslik": "Paketi aç"
+  }
+]

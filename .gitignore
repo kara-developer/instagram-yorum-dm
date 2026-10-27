@@ -1,0 +1,5 @@
+.env
+ig.db
+ig.log
+verify_token.txt
+__pycache__/
